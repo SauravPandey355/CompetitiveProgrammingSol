@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/orofand.exe",
+            "program": "${workspaceFolder}/BinaryStringMex.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
